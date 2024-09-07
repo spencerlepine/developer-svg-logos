@@ -17,6 +17,9 @@ A curated collection of SVG logos for developers/DevOps/geeks. Over 200 Free SVG
 | asana | ![Logo](./logos/asana.svg) |
 | atlassian | ![Logo](./logos/atlassian.svg) |
 | atom | ![Logo](./logos/atom.svg) |
+| azure-old | ![Logo](./logos/azure-old.svg) |
+| azure-wordmark | ![Logo](./logos/azure-wordmark.svg) |
+| azure | ![Logo](./logos/azure.svg) |
 | babel | ![Logo](./logos/babel.svg) |
 | bamboo | ![Logo](./logos/bamboo.svg) |
 | bash | ![Logo](./logos/bash.svg) |
